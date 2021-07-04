@@ -1,6 +1,0 @@
-RewriteEngine on
-
-RewriteRule ^INICIAL index.html [NC,L]
-RewriteRule ^INTERESTS interests.html [NC,L]
-RewriteRule ^PROJECTS projects.html [NC,L]
-RewriteRule ^EXPERIENCE experience.html [NC,L]
