@@ -31,3 +31,13 @@ body
 .img-pfp{
 	width: 40%;
 }
+
+.content-left{
+	width: 25%;
+	height: 100%;
+}
+
+.content-right{
+	width: 60%;
+	height: 100%;
+}
