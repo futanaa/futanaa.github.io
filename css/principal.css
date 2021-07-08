@@ -41,3 +41,10 @@ body
 	width: 60%;
 	height: 100%;
 }
+
+footer{
+  text-align: center;
+  padding: 3px;
+  background-color: rgb(0, 0, 0);
+  color: #fadee3;
+}
